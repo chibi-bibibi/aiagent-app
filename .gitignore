@@ -9,4 +9,5 @@ dist/
 htmlcov/
 .tox/
 docs/_build/
+.env
 
